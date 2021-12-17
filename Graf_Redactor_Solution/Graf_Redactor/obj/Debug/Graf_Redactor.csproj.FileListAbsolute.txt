@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\bin\Debug\Graf_Redactor.exe.config
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\bin\Debug\Graf_Redactor.exe
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\bin\Debug\Graf_Redactor.pdb
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.Form1.resources
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.Properties.Resources.resources
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.exe
+C:\Users\User\source\repos\Graf_Redactor_Solution\Graf_Redactor\obj\Debug\Graf_Redactor.pdb
